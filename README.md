@@ -17,3 +17,5 @@ Repository for study webpack by practise.
 - 按需加载 - 根据功能模块分批加载
 - 按需加载 - 自定义模块加载时机
 - scope hoisting
+- Loader
+- Plugin
