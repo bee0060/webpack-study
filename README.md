@@ -3,7 +3,7 @@ Repository for study webpack by practise.
 
 
 ### Task list
-- ES6=>ES5
+- ~~ES6=>ES5~~
 - uglify & source map
 - basic react
 - less
