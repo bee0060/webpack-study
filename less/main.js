@@ -1,3 +1,5 @@
+import './styles.less';
+
 const add = (x, y) => x + y;
 const substraction = (x, y) => x - y;
 
