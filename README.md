@@ -8,7 +8,7 @@ Repository for study webpack by practise.
 - ~~basic react~~
 - ~~less~~
 - ~~watch & 自动重新构建~~
-- watch & 只重新构建修改部分
+- ~~watch & 只重新构建修改部分~~ (webpack默认是增量构建，开启默认--watch即可)
 - hot reload
 - 按环境构建， production
 - 提取公共代码
