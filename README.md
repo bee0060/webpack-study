@@ -5,8 +5,8 @@ Repository for study webpack by practise.
 ### Task list
 - ~~ES6=>ES5~~
 - ~~uglify & source map~~
-- basic react
-- less
+- ~~basic react~~
+- ~~less~~
 - watch & 自动重新构建
 - watch & 只重新构建修改部分
 - hot reload
