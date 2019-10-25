@@ -7,7 +7,7 @@ Repository for study webpack by practise.
 - ~~uglify & source map~~
 - ~~basic react~~
 - ~~less~~
-- watch & 自动重新构建
+- ~~watch & 自动重新构建~~
 - watch & 只重新构建修改部分
 - hot reload
 - 按环境构建， production
