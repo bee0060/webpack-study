@@ -9,8 +9,8 @@ Repository for study webpack by practise.
 - ~~less~~
 - ~~watch & 自动重新构建~~
 - ~~watch & 只重新构建修改部分~~ (webpack默认是增量构建，开启默认--watch即可)
-- hot reload
-- 按环境构建， production
+- ~~hot reload~~
+- ~~按环境构建， production~~(包含在hot-reload任务中)
 - 提取公共代码
 - server side rendering
 - tree shaking
